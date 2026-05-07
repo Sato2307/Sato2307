@@ -1,6 +1,6 @@
 ## I'm Learning!! 👋
 
-<!--
+<img width="480" height="266" alt="Image" src="https://github.com/user-attachments/assets/4a9e2f56-92f0-4008-94be-ca8556423ad9" />
 **Sato2307/Sato2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
